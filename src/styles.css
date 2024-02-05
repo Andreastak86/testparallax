@@ -1,0 +1,19 @@
+html,
+body {
+    overscroll-behavior: none;
+}
+
+body {
+    font-family: Arial Black, sans-serif;
+    text-align: center;
+    background: #000;
+    height: 200vh;
+}
+.welcome-text {
+    opacity: 0;
+    text-shadow: 0 0 10px #880808;
+}
+
+.welcome-text.show {
+    opacity: 1;
+}
