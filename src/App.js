@@ -102,7 +102,7 @@ export default function App() {
                     transition: "opacity 0.5s ease", // Adding transition property explicitly
                 }}
             >
-                Welcome to the moon
+                Welcome to the moon, <br /> Ill see you soon!
             </div>
         </div>
     );
